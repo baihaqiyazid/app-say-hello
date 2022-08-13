@@ -1,2 +1,8 @@
 github.com/baihaqiyazid/go-say-hello v1.0.0 h1:tST7Ihj4Vr1fdLeIHtc0myRebtRu0ZyRd6KESa0lPuY=
 github.com/baihaqiyazid/go-say-hello v1.0.0/go.mod h1:8bhBZyh22duaeFXBUwcZJih/A10Xz2stsxI5Bx9KcKA=
+github.com/baihaqiyazid/go-say-hello v1.1.0 h1:7a+btDpBZgrZbdmKxwiUuPf1jDLSphBPvUCKxhShfDY=
+github.com/baihaqiyazid/go-say-hello v1.1.0/go.mod h1:8bhBZyh22duaeFXBUwcZJih/A10Xz2stsxI5Bx9KcKA=
+github.com/baihaqiyazid/go-say-hello/v2 v2.0.0 h1:My+aNFS3CzUnv1FfUdaaUL7byOM/ot7ZER710umv8T4=
+github.com/baihaqiyazid/go-say-hello/v2 v2.0.0/go.mod h1:OnAlm5vJpA2gFH+wHyKhKWCyMbWho/2fcDPezKKXs6g=
+github.com/baihaqiyazid/go-say-hello/v2 v2.1.0 h1:wvF9MJ/eYq1arrPNmf1xKS7UJTiwCtr6MiZCQvtm5t4=
+github.com/baihaqiyazid/go-say-hello/v2 v2.1.0/go.mod h1:OnAlm5vJpA2gFH+wHyKhKWCyMbWho/2fcDPezKKXs6g=
